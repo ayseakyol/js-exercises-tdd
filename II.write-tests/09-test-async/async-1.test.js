@@ -1,4 +1,4 @@
-const getRepos = require("./async-1");
+const getRepos = require("./async-1.js");
 
 test("gets a list of repositories names", function() {
   // arrange
